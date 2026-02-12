@@ -97,6 +97,10 @@ ________________________________________<br>
 # Output (Attach Screenshots)
 •	show ip interface brief on CustomerRouter<br>
 •	show ip route<br>
+
+
+<img width="939" height="993" alt="image" src="https://github.com/user-attachments/assets/5e6a618d-d892-467f-b171-04b072dad84a" />
+
 •	Successful pings: PC-A → PC-B, PC-A → ISP Server<br>
 ________________________________________<br>
 # Result
