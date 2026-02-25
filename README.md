@@ -98,11 +98,16 @@ ________________________________________<br>
 •	show ip interface brief on CustomerRouter<br>
 •	show ip route<br>
 
-
 <img width="939" height="993" alt="image" src="https://github.com/user-attachments/assets/5e6a618d-d892-467f-b171-04b072dad84a" />
 
 •	Successful pings: PC-A → PC-B, PC-A → ISP Server<br>
-________________________________________<br>
+<img width="951" height="1022" alt="image" src="https://github.com/user-attachments/assets/0126e048-9b91-4f9d-9118-b31be43945a1" />
+
+
+
+
+<img width="955" height="1018" alt="image" src="https://github.com/user-attachments/assets/8e2e0bd4-292a-4b5c-a861-62635d93503d" />
+___________________________<br>
 # Result
 The IPv4 subnetting scheme was successfully designed and implemented. Router, switches, and PCs were configured with correct addressing. Connectivity within LANs, across subnets, and to ISP devices was verified using ping and show commands.<br>
 
