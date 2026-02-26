@@ -103,6 +103,7 @@ ________________________________________<br>
 •	Successful pings: PC-A → PC-B, PC-A → ISP Server<br>
 <img width="951" height="1022" alt="image" src="https://github.com/user-attachments/assets/0126e048-9b91-4f9d-9118-b31be43945a1" />
 
+<img width="695" height="683" alt="image" src="https://github.com/user-attachments/assets/90131653-e33d-40da-bdc6-265b38a9f8c6" />
 
 
 
